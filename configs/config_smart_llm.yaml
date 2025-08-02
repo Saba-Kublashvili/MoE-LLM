@@ -1,0 +1,14 @@
+# Custom MoE model (~15.7M parameters)
+vocab_size: 16000
+d_model: 256
+n_layers: 4
+n_heads: 8
+n_kv_heads: 2  # GQA is active
+d_ff: 512
+max_seq_len: 256
+#Features (All Enabled)
+use_rotary_embeddings: true
+use_mixture_of_experts: true
+num_experts: 4
+num_experts_per_token: 2
+use_rezero: true

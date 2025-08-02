@@ -1,0 +1,15 @@
+# GPT-2 style baseline (~15.5M parameters)
+vocab_size: 16000
+d_model: 256
+n_layers: 6
+n_heads: 8
+n_kv_heads: 8  # Standard Multi-Head Attention (MHA)
+d_ff: 1024
+max_seq_len: 256
+
+# Advanced Features (All Disabled)
+use_rotary_embeddings: false
+use_mixture_of_experts: false
+num_experts: 1
+num_experts_per_token: 1
+use_rezero: false
