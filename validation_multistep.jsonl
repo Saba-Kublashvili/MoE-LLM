@@ -1,0 +1,100 @@
+{"prompt": "A bakery has 30 cakes. They bake 14 more in the morning and sell 43 in the afternoon. How many cakes are left at the end of the day?", "completion": "30 + 14 = 44; 44 - 43 = 1"}
+{"prompt": "Andre has 29 stickers. Kim gives them 12 stickers, and they find another 14. Then, they lose 22. How many stickers remain?", "completion": "29 + 12 = 41; 41 + 14 = 55; 55 - 22 = 33"}
+{"prompt": "A bakery has 47 cakes. They bake 16 more in the morning and sell 58 in the afternoon. How many cakes are left at the end of the day?", "completion": "47 + 16 = 63; 63 - 58 = 5"}
+{"prompt": "Scott has 26 books. Sean gives them 9 books, and they find another 12. Then, they lose 6. How many books remain?", "completion": "26 + 9 = 35; 35 + 12 = 47; 47 - 6 = 41"}
+{"prompt": "James starts with 49 coins. They buy 11 more, then give away 40 to Kayla. How many coins do they have left?", "completion": "49 + 11 = 60; 60 - 40 = 20"}
+{"prompt": "Michelle starts with 28 books. They buy 5 more, then give away 15 to Jessica. How many books do they have left?", "completion": "28 + 5 = 33; 33 - 15 = 18"}
+{"prompt": "Ruth has 32 apples. Stephanie gives them 17 apples, and they find another 15. Then, they lose 55. How many apples remain?", "completion": "32 + 17 = 49; 49 + 15 = 64; 64 - 55 = 9"}
+{"prompt": "A bakery has 37 cakes. They bake 22 more in the morning and sell 3 in the afternoon. How many cakes are left at the end of the day?", "completion": "37 + 22 = 59; 59 - 3 = 56"}
+{"prompt": "Raven starts with 44 apples. They buy 5 more, then give away 35 to Ryan. How many apples do they have left?", "completion": "44 + 5 = 49; 49 - 35 = 14"}
+{"prompt": "Shelby has 28 apples. Julie gives them 21 apples, and they find another 6. Then, they lose 3. How many apples remain?", "completion": "28 + 21 = 49; 49 + 6 = 55; 55 - 3 = 52"}
+{"prompt": "A bakery has 25 cakes. They bake 6 more in the morning and sell 3 in the afternoon. How many cakes are left at the end of the day?", "completion": "25 + 6 = 31; 31 - 3 = 28"}
+{"prompt": "Eric has 36 apples. Lindsay gives them 22 apples, and they find another 13. Then, they lose 41. How many apples remain?", "completion": "36 + 22 = 58; 58 + 13 = 71; 71 - 41 = 30"}
+{"prompt": "Jessica starts with 22 books. They buy 11 more, then give away 18 to Phillip. How many books do they have left?", "completion": "22 + 11 = 33; 33 - 18 = 15"}
+{"prompt": "A bakery has 38 cakes. They bake 21 more in the morning and sell 20 in the afternoon. How many cakes are left at the end of the day?", "completion": "38 + 21 = 59; 59 - 20 = 39"}
+{"prompt": "A bakery has 36 cakes. They bake 20 more in the morning and sell 29 in the afternoon. How many cakes are left at the end of the day?", "completion": "36 + 20 = 56; 56 - 29 = 27"}
+{"prompt": "A bakery has 23 cakes. They bake 8 more in the morning and sell 3 in the afternoon. How many cakes are left at the end of the day?", "completion": "23 + 8 = 31; 31 - 3 = 28"}
+{"prompt": "Martin has 40 stickers. Scott gives them 8 stickers, and they find another 14. Then, they lose 13. How many stickers remain?", "completion": "40 + 8 = 48; 48 + 14 = 62; 62 - 13 = 49"}
+{"prompt": "Tiffany has 40 coins. Jeffrey gives them 7 coins, and they find another 2. Then, they lose 21. How many coins remain?", "completion": "40 + 7 = 47; 47 + 2 = 49; 49 - 21 = 28"}
+{"prompt": "A bakery has 42 cakes. They bake 9 more in the morning and sell 2 in the afternoon. How many cakes are left at the end of the day?", "completion": "42 + 9 = 51; 51 - 2 = 49"}
+{"prompt": "Jeffery has 44 marbles. Alicia gives them 6 marbles, and they find another 9. Then, they lose 1. How many marbles remain?", "completion": "44 + 6 = 50; 50 + 9 = 59; 59 - 1 = 58"}
+{"prompt": "A bakery has 48 cakes. They bake 10 more in the morning and sell 39 in the afternoon. How many cakes are left at the end of the day?", "completion": "48 + 10 = 58; 58 - 39 = 19"}
+{"prompt": "Danielle has 37 marbles. Jeffrey gives them 10 marbles, and they find another 12. Then, they lose 2. How many marbles remain?", "completion": "37 + 10 = 47; 47 + 12 = 59; 59 - 2 = 57"}
+{"prompt": "A bakery has 30 cakes. They bake 10 more in the morning and sell 8 in the afternoon. How many cakes are left at the end of the day?", "completion": "30 + 10 = 40; 40 - 8 = 32"}
+{"prompt": "Megan starts with 20 stickers. They buy 16 more, then give away 8 to Brenda. How many stickers do they have left?", "completion": "20 + 16 = 36; 36 - 8 = 28"}
+{"prompt": "Madison starts with 21 coins. They buy 12 more, then give away 24 to Deborah. How many coins do they have left?", "completion": "21 + 12 = 33; 33 - 24 = 9"}
+{"prompt": "A bakery has 21 cakes. They bake 20 more in the morning and sell 2 in the afternoon. How many cakes are left at the end of the day?", "completion": "21 + 20 = 41; 41 - 2 = 39"}
+{"prompt": "Vanessa starts with 38 apples. They buy 25 more, then give away 26 to Alexis. How many apples do they have left?", "completion": "38 + 25 = 63; 63 - 26 = 37"}
+{"prompt": "Jessica starts with 38 stickers. They buy 18 more, then give away 53 to Allison. How many stickers do they have left?", "completion": "38 + 18 = 56; 56 - 53 = 3"}
+{"prompt": "A bakery has 26 cakes. They bake 14 more in the morning and sell 8 in the afternoon. How many cakes are left at the end of the day?", "completion": "26 + 14 = 40; 40 - 8 = 32"}
+{"prompt": "Jacob starts with 40 stickers. They buy 11 more, then give away 23 to Elizabeth. How many stickers do they have left?", "completion": "40 + 11 = 51; 51 - 23 = 28"}
+{"prompt": "A bakery has 48 cakes. They bake 21 more in the morning and sell 35 in the afternoon. How many cakes are left at the end of the day?", "completion": "48 + 21 = 69; 69 - 35 = 34"}
+{"prompt": "Jacob has 34 apples. Susan gives them 15 apples, and they find another 9. Then, they lose 47. How many apples remain?", "completion": "34 + 15 = 49; 49 + 9 = 58; 58 - 47 = 11"}
+{"prompt": "Bianca starts with 49 books. They buy 11 more, then give away 3 to Ronald. How many books do they have left?", "completion": "49 + 11 = 60; 60 - 3 = 57"}
+{"prompt": "A bakery has 23 cakes. They bake 7 more in the morning and sell 10 in the afternoon. How many cakes are left at the end of the day?", "completion": "23 + 7 = 30; 30 - 10 = 20"}
+{"prompt": "A bakery has 27 cakes. They bake 13 more in the morning and sell 18 in the afternoon. How many cakes are left at the end of the day?", "completion": "27 + 13 = 40; 40 - 18 = 22"}
+{"prompt": "William starts with 38 stickers. They buy 7 more, then give away 33 to Linda. How many stickers do they have left?", "completion": "38 + 7 = 45; 45 - 33 = 12"}
+{"prompt": "Joseph has 21 stickers. Emily gives them 6 stickers, and they find another 14. Then, they lose 39. How many stickers remain?", "completion": "21 + 6 = 27; 27 + 14 = 41; 41 - 39 = 2"}
+{"prompt": "A bakery has 24 cakes. They bake 10 more in the morning and sell 30 in the afternoon. How many cakes are left at the end of the day?", "completion": "24 + 10 = 34; 34 - 30 = 4"}
+{"prompt": "Brandon has 29 coins. Jessica gives them 22 coins, and they find another 8. Then, they lose 40. How many coins remain?", "completion": "29 + 22 = 51; 51 + 8 = 59; 59 - 40 = 19"}
+{"prompt": "A bakery has 33 cakes. They bake 9 more in the morning and sell 22 in the afternoon. How many cakes are left at the end of the day?", "completion": "33 + 9 = 42; 42 - 22 = 20"}
+{"prompt": "A bakery has 34 cakes. They bake 12 more in the morning and sell 20 in the afternoon. How many cakes are left at the end of the day?", "completion": "34 + 12 = 46; 46 - 20 = 26"}
+{"prompt": "Jenna starts with 31 coins. They buy 15 more, then give away 16 to Susan. How many coins do they have left?", "completion": "31 + 15 = 46; 46 - 16 = 30"}
+{"prompt": "Amanda has 37 coins. Jonathan gives them 18 coins, and they find another 5. Then, they lose 36. How many coins remain?", "completion": "37 + 18 = 55; 55 + 5 = 60; 60 - 36 = 24"}
+{"prompt": "Regina has 43 marbles. Lauren gives them 12 marbles, and they find another 14. Then, they lose 67. How many marbles remain?", "completion": "43 + 12 = 55; 55 + 14 = 69; 69 - 67 = 2"}
+{"prompt": "Megan starts with 39 books. They buy 13 more, then give away 38 to David. How many books do they have left?", "completion": "39 + 13 = 52; 52 - 38 = 14"}
+{"prompt": "Richard starts with 27 coins. They buy 16 more, then give away 25 to David. How many coins do they have left?", "completion": "27 + 16 = 43; 43 - 25 = 18"}
+{"prompt": "Morgan has 45 apples. Deborah gives them 8 apples, and they find another 12. Then, they lose 28. How many apples remain?", "completion": "45 + 8 = 53; 53 + 12 = 65; 65 - 28 = 37"}
+{"prompt": "Robert has 40 books. Thomas gives them 15 books, and they find another 5. Then, they lose 49. How many books remain?", "completion": "40 + 15 = 55; 55 + 5 = 60; 60 - 49 = 11"}
+{"prompt": "Elizabeth has 35 books. Vickie gives them 24 books, and they find another 3. Then, they lose 15. How many books remain?", "completion": "35 + 24 = 59; 59 + 3 = 62; 62 - 15 = 47"}
+{"prompt": "Deanna has 31 stickers. David gives them 18 stickers, and they find another 1. Then, they lose 13. How many stickers remain?", "completion": "31 + 18 = 49; 49 + 1 = 50; 50 - 13 = 37"}
+{"prompt": "Cheryl has 20 marbles. Martha gives them 8 marbles, and they find another 10. Then, they lose 4. How many marbles remain?", "completion": "20 + 8 = 28; 28 + 10 = 38; 38 - 4 = 34"}
+{"prompt": "Ashley starts with 34 marbles. They buy 15 more, then give away 20 to Sarah. How many marbles do they have left?", "completion": "34 + 15 = 49; 49 - 20 = 29"}
+{"prompt": "A bakery has 47 cakes. They bake 19 more in the morning and sell 37 in the afternoon. How many cakes are left at the end of the day?", "completion": "47 + 19 = 66; 66 - 37 = 29"}
+{"prompt": "Robin has 28 apples. Megan gives them 9 apples, and they find another 2. Then, they lose 16. How many apples remain?", "completion": "28 + 9 = 37; 37 + 2 = 39; 39 - 16 = 23"}
+{"prompt": "Kenneth starts with 50 marbles. They buy 8 more, then give away 27 to Greg. How many marbles do they have left?", "completion": "50 + 8 = 58; 58 - 27 = 31"}
+{"prompt": "Amy starts with 24 marbles. They buy 14 more, then give away 22 to Steven. How many marbles do they have left?", "completion": "24 + 14 = 38; 38 - 22 = 16"}
+{"prompt": "A bakery has 41 cakes. They bake 9 more in the morning and sell 4 in the afternoon. How many cakes are left at the end of the day?", "completion": "41 + 9 = 50; 50 - 4 = 46"}
+{"prompt": "Jesse starts with 28 coins. They buy 7 more, then give away 11 to Jacob. How many coins do they have left?", "completion": "28 + 7 = 35; 35 - 11 = 24"}
+{"prompt": "A bakery has 32 cakes. They bake 20 more in the morning and sell 41 in the afternoon. How many cakes are left at the end of the day?", "completion": "32 + 20 = 52; 52 - 41 = 11"}
+{"prompt": "Yolanda has 33 coins. Bradley gives them 6 coins, and they find another 8. Then, they lose 22. How many coins remain?", "completion": "33 + 6 = 39; 39 + 8 = 47; 47 - 22 = 25"}
+{"prompt": "A bakery has 47 cakes. They bake 12 more in the morning and sell 38 in the afternoon. How many cakes are left at the end of the day?", "completion": "47 + 12 = 59; 59 - 38 = 21"}
+{"prompt": "Kristen has 31 apples. Christopher gives them 22 apples, and they find another 11. Then, they lose 26. How many apples remain?", "completion": "31 + 22 = 53; 53 + 11 = 64; 64 - 26 = 38"}
+{"prompt": "Alexandria has 30 books. Alexander gives them 8 books, and they find another 15. Then, they lose 30. How many books remain?", "completion": "30 + 8 = 38; 38 + 15 = 53; 53 - 30 = 23"}
+{"prompt": "A bakery has 25 cakes. They bake 21 more in the morning and sell 40 in the afternoon. How many cakes are left at the end of the day?", "completion": "25 + 21 = 46; 46 - 40 = 6"}
+{"prompt": "A bakery has 29 cakes. They bake 24 more in the morning and sell 19 in the afternoon. How many cakes are left at the end of the day?", "completion": "29 + 24 = 53; 53 - 19 = 34"}
+{"prompt": "A bakery has 43 cakes. They bake 14 more in the morning and sell 39 in the afternoon. How many cakes are left at the end of the day?", "completion": "43 + 14 = 57; 57 - 39 = 18"}
+{"prompt": "Mark starts with 23 marbles. They buy 10 more, then give away 1 to Karen. How many marbles do they have left?", "completion": "23 + 10 = 33; 33 - 1 = 32"}
+{"prompt": "A bakery has 21 cakes. They bake 12 more in the morning and sell 31 in the afternoon. How many cakes are left at the end of the day?", "completion": "21 + 12 = 33; 33 - 31 = 2"}
+{"prompt": "Douglas has 29 apples. Nicole gives them 17 apples, and they find another 13. Then, they lose 18. How many apples remain?", "completion": "29 + 17 = 46; 46 + 13 = 59; 59 - 18 = 41"}
+{"prompt": "Amy has 25 stickers. Nathan gives them 25 stickers, and they find another 12. Then, they lose 51. How many stickers remain?", "completion": "25 + 25 = 50; 50 + 12 = 62; 62 - 51 = 11"}
+{"prompt": "Susan starts with 33 books. They buy 7 more, then give away 7 to Philip. How many books do they have left?", "completion": "33 + 7 = 40; 40 - 7 = 33"}
+{"prompt": "A bakery has 29 cakes. They bake 24 more in the morning and sell 37 in the afternoon. How many cakes are left at the end of the day?", "completion": "29 + 24 = 53; 53 - 37 = 16"}
+{"prompt": "Patricia starts with 48 stickers. They buy 19 more, then give away 5 to Penny. How many stickers do they have left?", "completion": "48 + 19 = 67; 67 - 5 = 62"}
+{"prompt": "Angela has 30 books. Julie gives them 21 books, and they find another 13. Then, they lose 30. How many books remain?", "completion": "30 + 21 = 51; 51 + 13 = 64; 64 - 30 = 34"}
+{"prompt": "Mark has 24 apples. Jamie gives them 22 apples, and they find another 1. Then, they lose 17. How many apples remain?", "completion": "24 + 22 = 46; 46 + 1 = 47; 47 - 17 = 30"}
+{"prompt": "Vanessa starts with 37 apples. They buy 18 more, then give away 28 to Lisa. How many apples do they have left?", "completion": "37 + 18 = 55; 55 - 28 = 27"}
+{"prompt": "John starts with 20 coins. They buy 9 more, then give away 10 to Diana. How many coins do they have left?", "completion": "20 + 9 = 29; 29 - 10 = 19"}
+{"prompt": "Amanda has 25 coins. Justin gives them 7 coins, and they find another 8. Then, they lose 9. How many coins remain?", "completion": "25 + 7 = 32; 32 + 8 = 40; 40 - 9 = 31"}
+{"prompt": "A bakery has 22 cakes. They bake 14 more in the morning and sell 18 in the afternoon. How many cakes are left at the end of the day?", "completion": "22 + 14 = 36; 36 - 18 = 18"}
+{"prompt": "Nicole starts with 37 apples. They buy 5 more, then give away 35 to Dawn. How many apples do they have left?", "completion": "37 + 5 = 42; 42 - 35 = 7"}
+{"prompt": "Adam has 22 apples. Miguel gives them 6 apples, and they find another 3. Then, they lose 17. How many apples remain?", "completion": "22 + 6 = 28; 28 + 3 = 31; 31 - 17 = 14"}
+{"prompt": "Daniel has 37 stickers. Benjamin gives them 18 stickers, and they find another 9. Then, they lose 52. How many stickers remain?", "completion": "37 + 18 = 55; 55 + 9 = 64; 64 - 52 = 12"}
+{"prompt": "A bakery has 32 cakes. They bake 16 more in the morning and sell 33 in the afternoon. How many cakes are left at the end of the day?", "completion": "32 + 16 = 48; 48 - 33 = 15"}
+{"prompt": "Robert starts with 45 apples. They buy 22 more, then give away 50 to Carolyn. How many apples do they have left?", "completion": "45 + 22 = 67; 67 - 50 = 17"}
+{"prompt": "Kayla starts with 48 apples. They buy 15 more, then give away 4 to Alexander. How many apples do they have left?", "completion": "48 + 15 = 63; 63 - 4 = 59"}
+{"prompt": "A bakery has 40 cakes. They bake 25 more in the morning and sell 19 in the afternoon. How many cakes are left at the end of the day?", "completion": "40 + 25 = 65; 65 - 19 = 46"}
+{"prompt": "Victoria starts with 42 apples. They buy 22 more, then give away 38 to Jesse. How many apples do they have left?", "completion": "42 + 22 = 64; 64 - 38 = 26"}
+{"prompt": "A bakery has 50 cakes. They bake 20 more in the morning and sell 16 in the afternoon. How many cakes are left at the end of the day?", "completion": "50 + 20 = 70; 70 - 16 = 54"}
+{"prompt": "Monica starts with 40 books. They buy 23 more, then give away 14 to Charles. How many books do they have left?", "completion": "40 + 23 = 63; 63 - 14 = 49"}
+{"prompt": "Charles starts with 46 marbles. They buy 21 more, then give away 29 to Nathaniel. How many marbles do they have left?", "completion": "46 + 21 = 67; 67 - 29 = 38"}
+{"prompt": "Joseph has 40 coins. Chad gives them 24 coins, and they find another 13. Then, they lose 23. How many coins remain?", "completion": "40 + 24 = 64; 64 + 13 = 77; 77 - 23 = 54"}
+{"prompt": "Lindsey starts with 48 marbles. They buy 5 more, then give away 10 to Jason. How many marbles do they have left?", "completion": "48 + 5 = 53; 53 - 10 = 43"}
+{"prompt": "Andrew starts with 20 stickers. They buy 14 more, then give away 19 to David. How many stickers do they have left?", "completion": "20 + 14 = 34; 34 - 19 = 15"}
+{"prompt": "A bakery has 47 cakes. They bake 8 more in the morning and sell 25 in the afternoon. How many cakes are left at the end of the day?", "completion": "47 + 8 = 55; 55 - 25 = 30"}
+{"prompt": "James has 40 coins. Denise gives them 9 coins, and they find another 11. Then, they lose 34. How many coins remain?", "completion": "40 + 9 = 49; 49 + 11 = 60; 60 - 34 = 26"}
+{"prompt": "Phillip has 41 apples. Shelly gives them 6 apples, and they find another 13. Then, they lose 1. How many apples remain?", "completion": "41 + 6 = 47; 47 + 13 = 60; 60 - 1 = 59"}
+{"prompt": "A bakery has 28 cakes. They bake 7 more in the morning and sell 10 in the afternoon. How many cakes are left at the end of the day?", "completion": "28 + 7 = 35; 35 - 10 = 25"}
+{"prompt": "A bakery has 47 cakes. They bake 11 more in the morning and sell 14 in the afternoon. How many cakes are left at the end of the day?", "completion": "47 + 11 = 58; 58 - 14 = 44"}
+{"prompt": "Crystal starts with 42 stickers. They buy 10 more, then give away 34 to Billy. How many stickers do they have left?", "completion": "42 + 10 = 52; 52 - 34 = 18"}
+{"prompt": "A bakery has 34 cakes. They bake 15 more in the morning and sell 46 in the afternoon. How many cakes are left at the end of the day?", "completion": "34 + 15 = 49; 49 - 46 = 3"}
