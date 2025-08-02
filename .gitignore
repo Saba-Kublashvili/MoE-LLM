@@ -1,0 +1,13 @@
+# Datasets
+*.jsonl
+
+# Python virtual environment
+venv/
+.venv/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
