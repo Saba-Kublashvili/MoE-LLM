@@ -1,4 +1,4 @@
-````markdown
+
 # MoE-LLM: Advanced Modular Transformer Architecture
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -16,7 +16,7 @@ The primary goal of this project is **architectural transparency and modularity*
 
 This repository demonstrates how to implement the specific technologies that drive modern LLM performance:
 
-### Advanced Neural Architecture
+### Neural Architecture
 
 * **Mixture of Experts (MoE):** Sparse MoE implementation featuring top-k noisy gating, shared experts, and auxiliary load-balancing losses (Z-loss) for high parameter efficiency.
 * **Rotary Positional Embeddings (RoPE):** Relative positional encoding for superior sequence length generalization.
@@ -56,18 +56,19 @@ The code is modularized to facilitate component extraction:
 ├── trainer.py      # Curriculum Trainer, Mixed Precision, & Dataset Logic
 ├── inference.py    # Generation Logic (Top-k, Top-p, Repetition Penalty)
 └── main.py         # Entry point & CLI
-````
+
+
 
 ## Installation
 
-Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/Saba-Kublashvili/MoE-LLM.git
 cd MoE-LLM
 ```
 
-Install dependencies:
+### Install dependencies:
 
 ```bash
 pip install torch tqdm
@@ -75,6 +76,8 @@ pip install torch tqdm
 # Highly recommended for full feature set:
 pip install tokenizers datasets lion-pytorch
 ```
+
+
 
 ## Usage
 
@@ -126,7 +129,7 @@ class ModelConfig:
     use_mixture_of_experts: bool = True
     use_sliding_window_attention: bool = True
     use_rezero: bool = True
-```
+
 
 ## Contributing
 
@@ -135,11 +138,11 @@ Contributions are welcome. This project is an educational open-source resource. 
 * ALiBi positional embeddings
 * LoRA / QLoRA integration
 * Triton kernel optimizations
-
+ 
 ## License
 
 This project is licensed under the MIT License.
 
-```
-```
+
+
 
