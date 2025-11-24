@@ -1,14 +1,14 @@
 ````markdown
-# SmartLLM: Advanced Modular Transformer Architecture
+# MoE-LLM: Advanced Modular Transformer Architecture
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen)
 
-**SmartLLM** is a comprehensive, ground-up implementation of a modern Large Language Model (LLM) architecture.
+**MoE-LLM** is a comprehensive, ground-up implementation of a modern Large Language Model (LLM) architecture.
 
-Unlike standard tutorials that implement the original 2017 Transformer, SmartLLM aggregates **state-of-the-art (SOTA) architectural improvements** used in modern foundation models (like Llama 3, Mixtral, and PaLM) into a single, cohesive codebase.
+Unlike standard tutorials that implement the original 2017 Transformer, MoE-LLM aggregates **state-of-the-art (SOTA) architectural improvements** used in modern foundation models (like Llama 3, Mixtral, and PaLM) into a single, cohesive codebase.
 
 The primary goal of this project is **architectural transparency and modularity**. It serves as a practical "living library" where developers can study, extract, and implement advanced techniques like Mixture of Experts, Rotary Embeddings, and SwiGLU activations using pure PyTorch.
 
@@ -63,8 +63,8 @@ The code is modularized to facilitate component extraction:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SmartLLM.git
-cd SmartLLM
+git clone https://github.com/Saba-Kublashvili/MoE-LLM.git
+cd MoE-LLM
 ```
 
 Install dependencies:
